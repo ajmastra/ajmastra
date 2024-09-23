@@ -10,7 +10,7 @@ Welcome to my GitHub profile! 😄 Here's a little about me:
 Here are the technologies I work with:
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![PowerApps](https://img.shields.io/badge/-PowerApps-000?style=for-the-badge&logo=microsoft-powerapps)
+![PowerApps](https://img.shields.io/badge/PowerApps-0089D6?style=for-the-badge&logo=microsoft-powerapps&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 
 Feel free to explore my repositories to see what I’ve been up to!
