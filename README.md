@@ -18,7 +18,7 @@ Feel free to explore my repositories to see what I’ve been up to!
 ---
 
 ## 🔭 Current Projects
-- 🔐 Building a **Multipage Web App** using **Streamlit**.
+- 🔐 Building an **iOS App** using **Swift & SwiftUI**: [Sip n Swip](https://github.com/ajmastra/sip-n-swipe).
 - 💻 Learning **React** for high-performance web / mobile applications.
 
 ---
