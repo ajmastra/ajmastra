@@ -21,10 +21,10 @@ const AJ = {
 
 ## 🚀 What I'm Working On
 
+- 🧠 **[NeuroLight Capstone](https://github.com/Neuro-Light/neurolight-prototype)** - A Python application for image and neuronal analysis, advancing neuroscience research
 - 🍹 **[Sip n Swipe](https://github.com/ajmastra/sip-n-swipe)** - An iOS app built with Swift & SwiftUI for discovering cocktail recipes
 - 📱 **Power Platform Model-Driven Apps** - Building enterprise solutions with advanced data modeling and business logic
 - ✅ **Task Tracker** - A full-stack React application using the PERN stack (PostgreSQL, Express, React, Node.js)
-- 🧠 **Neurolight Capstone** - A Python application for image and neuronal analysis, advancing neuroscience research
 
 ## 🛠️ Tech Stack
 
@@ -59,6 +59,7 @@ const AJ = {
 <div align="center">
 
 [![Sip n Swipe](https://github-readme-stats.vercel.app/api/pin/?username=ajmastra&repo=sip-n-swipe&theme=radical&hide_border=true)](https://github.com/ajmastra/sip-n-swipe)
+[![Neurolight Prototype](https://github-readme-stats.vercel.app/api/pin/?username=Neuro-Light&repo=neurolight-prototype&theme=radical&hide_border=true)](https://github.com/Neuro-Light/neurolight-prototype)
 
 </div>
 
