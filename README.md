@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-Computer Science student at the Northern Arizona Universty | Data & Solution Integration Intern @ 1701 Solutions
+Computer Science student at Northern Arizona Universty | Data & Solution Integration Intern @ 1701 Solutions
 
 I'm a developer who thrives at the intersection of enterprise solutions and innovative tech. Currently building automation tools with Microsoft Dynamics 365 and Power Platform while leading a neuroscience research application. When I'm not coding, you'll find me capturing Southwest landscapes with my film camera or optimizing my homelab setup.
 ```typescript
